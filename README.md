@@ -1,4 +1,4 @@
-Download the model: ""
+Download the model: "https://drive.google.com/drive/folders/1V1mpx1KJnIh0zELTYphxz6-zOXGA9kH3?usp=sharing"
 
 ## How to Install and Run the Project
 To install and run the Gluco Vision project locally, please follow these steps:
